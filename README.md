@@ -7,7 +7,7 @@ This project contains Terraform configurations for setting up the infrastructure
 - Terraform ">= 0.12.0"
 - AWS Account and CLI configured
 - Hashicorp/aws "~> 5.0"
-- Username and Password shoud be created in your AWS Secter management
+- RDS secret (Username and Password) shoud be created in your AWS Secter manager
 - S3 buket for terraform.tfstate (backend) shoud be created in your AWS Account
 - DynamoDB shoud be created in your AWS Account
 
