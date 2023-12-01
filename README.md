@@ -58,5 +58,5 @@ After deployment, the infrastructure will support the operations of Weasel CRM w
 ## Contributors
 - Viktoriia Bielova
 
-## License
-You should add your license 
+## Certificate
+You SSL Certificate 
