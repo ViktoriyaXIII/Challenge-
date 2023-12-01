@@ -7,9 +7,9 @@ This project contains Terraform configurations for setting up the infrastructure
 - Terraform ">= 0.12.0"
 - AWS Account and CLI configured
 - Hashicorp/aws "~> 5.0"
-- Username and Password shoud be created in AWS Secter management
-- S3 buket for terraform.tfstate (backend) shoud be created in AWS
-- DynamoDB shoud be created in AWS
+- Username and Password shoud be created in your AWS Secter management
+- S3 buket for terraform.tfstate (backend) shoud be created in your AWS Account
+- DynamoDB shoud be created in your AWS Account
 
 ## Setup Instructions
 1. **Initialize Terraform:** Run `terraform init` to initialize the working directory.
